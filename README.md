@@ -1,7 +1,7 @@
 # 💫About Me :
 - 🌱 I’m currently learning NextJS, SpringBoot, AWS, Software Architecture, and other skills...
 - 👯 All of my projects are available at GitHub Me
-- 📫 How to reach me: vanchihieu5@gmail.com
+- 📫 How to reach me: vanchihieu3@gmail.com
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hiếu-văn-chí-1647681ab/) 
